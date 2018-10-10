@@ -1,0 +1,12 @@
+gcloud ml-engine jobs submit training cpf_object_detection_eval_20180608_18 \
+    --runtime-version 1.8 \
+    --python-version 3.5 \
+    --job-dir=gs://objectdetection-cpf/train \
+    --packages dist/object_detection-0.1.tar.gz,slim/dist/slim-0.1.tar.gz \
+    --module-name object_detection.eval \
+    --region us-central1 \
+    --scale-tier BASIC_GPU \
+    -- \
+    --checkpoint_dir=gs://objectdetection-cpf/train \
+    --eval_dir=gs://objectdetection-cpf/eval \
+    --pipeline_config_path=gs://objectdetection-cpf/data/ssd_mobilenet_v1_cap.config
