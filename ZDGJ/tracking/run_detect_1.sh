@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python video_detect_main.py -n 1 -v /data/ZDGJ/demoVideo/平电中路-1.mp4 -k /data/saved_models/fast_rcnn_inception_v2/0802_data_fasterRCNN_inception_k2office_finetune/frozen_inference_graph.pb -f 25 -t 1 -p 10 -g 40

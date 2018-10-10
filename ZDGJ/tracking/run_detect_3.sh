@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python video_detect_main.py -n 3 -r rtsp://admin:k2vision@10.1.20.230:554/h264/ch33/main/av_stream -k /data/saved_models/ssd_mobilenet_v2/savedModel_200000_K2Office_ssdmobilenetv2_0726/frozen_inference_graph.pb -f 25 -t 1 -p 30 -g 40
