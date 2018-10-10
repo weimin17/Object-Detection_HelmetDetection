@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python video_detect_main.py -n 4 -r rtsp://admin:k2vision@10.1.20.230:554/h264/ch33/main/av_stream -k /data/saved_models/fast_rcnn_inception_v2/all_0725_80000/frozen_inference_graph.pb -f 25 -t 1 -p 10 -g 40

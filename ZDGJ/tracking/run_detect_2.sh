@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python video_detect_main.py -n 2 -v /data/ZDGJ/demoVideo/CESM小室-2.mp4 -k /data/saved_models/ssd_mobilenet_v2/savedModel_120000_CEMS_ssdmobilenetv2_0727/frozen_inference_graph.pb -f 25 -t 1 -p 10 -g 40

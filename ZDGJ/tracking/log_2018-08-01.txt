@@ -1,0 +1,120 @@
+2018-08-01_17.01.05
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 146.4141104221344
+GPU_MEMORY: 0.03
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_17.01.06
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 146.93572449684143
+GPU_MEMORY: 0.03
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_17.01.06
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 147.00969862937927
+GPU_MEMORY: 0.03
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_17.01.39
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 180.00486993789673
+GPU_MEMORY: 0.03
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_17.01.41
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 182.5963134765625
+GPU_MEMORY: 0.03
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_17.01.42
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 182.73770689964294
+GPU_MEMORY: 0.03
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_17.01.42
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 182.6164515018463
+GPU_MEMORY: 0.03
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_17.01.43
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 184.39439344406128
+GPU_MEMORY: 0.03
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_17.01.44
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 185.3416256904602
+GPU_MEMORY: 0.03
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_17.01.44
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 185.55265974998474
+GPU_MEMORY: 0.03
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_17.01.46
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 186.84254956245422
+GPU_MEMORY: 0.03
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_17.01.47
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 188.33526039123535
+GPU_MEMORY: 0.03
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_17.05.19
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 127.42020201683044
+GPU_MEMORY: 0.03
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_17.05.19
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 127.61592769622803
+GPU_MEMORY: 0.03
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_17.05.19
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 127.7251193523407
+GPU_MEMORY: 0.03
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_17.05.19
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 127.6896071434021
+GPU_MEMORY: 0.03
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_17.05.20
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 128.31007957458496
+GPU_MEMORY: 0.03
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_17.05.20
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 129.43473649024963
+GPU_MEMORY: 0.03
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_17.05.21
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 129.54895567893982
+GPU_MEMORY: 0.03
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_17.05.21
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 129.87234807014465
+GPU_MEMORY: 0.03
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_18.17.02
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 97.81179976463318
+GPU_MEMORY: 0.04
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_18.17.03
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 98.92011451721191
+GPU_MEMORY: 0.04
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_18.17.03
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 98.73030519485474
+GPU_MEMORY: 0.04
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
+2018-08-01_18.17.09
+/data/ZDGJ/demoVideo/平电中路-1.mp4 needs time: 103.95362973213196
+GPU_MEMORY: 0.04
+PATH_TO_CKPT: /data/FAST_RCNN_ALL_aug_3/frozen_inference_graph.pb
+
